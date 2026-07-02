@@ -2,7 +2,6 @@
 
 ## Yashaswini Singh
 
-...
 
 ## Problem
 
